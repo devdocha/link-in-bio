@@ -59,12 +59,12 @@ link-in-bio/
 
 ## 🎨 Paleta de Cores
 
-| Cor | Hex | Uso |
-|-----|-----|-----|
-| ![#5BCEFA](https://via.placeholder.com/15/5BCEFA/000000?text=+) | `#5BCEFA` | Azul Trans - Gradiente principal |
-| ![#F5A9B8](https://via.placeholder.com/15/F5A9B8/000000?text=+) | `#F5A9B8` | Rosa Trans - Acentos e bordas |
-| ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | `#FFFFFF` | Branco - Gradiente e cards |
-| ![#2d3748](https://via.placeholder.com/15/2d3748/000000?text=+) | `#2d3748` | Cinza Escuro - Texto principal |
+ Hex | Uso |
+-----|-----|
+#5BCEFA | Azul Trans - Gradiente principal |
+#F5A9B8 | Rosa Trans - Acentos e bordas |
+#FFFFFF | Branco - Gradiente e cards |
+#2d3748 | Cinza Escuro - Texto principal |
 
 ## 🚀 Como Usar
 
